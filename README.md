@@ -1,4 +1,4 @@
- #  Develop a script to perform time series forecasting using techniques like ARIMA or LSTM networks
+# 1: Develop a script to perform time series forecasting using techniques like ARIMA or LSTM networks
 
 # Time Series Forecasting Analysis for Temperature using ARIMA Model
 
@@ -26,5 +26,15 @@ Critical Values : 1% : -3.430494933115834 5% : -2.8616040573080572 10% : -2.5668
 # Modelling: 
 Build model using ARIMA
 
-2nd 
-anomaly detection algorithm using the Z-score method in Python
+
+
+#  2: Implement a basic anomaly detection algorithm from scratch
+
+Anomaly detection algorithm using the Z-score method in Python. This method assumes that the data follows a Gaussian distribution and anomalies are the data points that are too far from the mean.  Data points with a Z-score greater than the threshold is 3 are considered as anomalies.
+
+
+
+
+# 3: Write code to perform image classification using a pre-trained CNN architecture
+Convolutional Neural Network (CNN) for image classification in Python using the Keras library. Use the VGG16 model which is pre-trained on the ImageNet dataset.
+
