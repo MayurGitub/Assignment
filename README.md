@@ -1,3 +1,5 @@
+ #  Develop a script to perform time series forecasting using techniques like ARIMA or LSTM networks
+
 # Time Series Forecasting Analysis for Temperature using ARIMA Model
 
 # Data:- 
@@ -23,3 +25,6 @@ Critical Values : 1% : -3.430494933115834 5% : -2.8616040573080572 10% : -2.5668
 
 # Modelling: 
 Build model using ARIMA
+
+2nd 
+anomaly detection algorithm using the Z-score method in Python
